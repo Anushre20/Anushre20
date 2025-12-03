@@ -37,8 +37,11 @@ From designing sleek interfaces to diving deep into ML models and GenAI tools �
 
 ---
 
-### 📊 GitHub Stats  
-![Anupama's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anushre20&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anushre20&layout=compact&theme=tokyonight)
+## 📊 GitHub Stats (Backup Mirror)
+
+<p align="center">
+  <img src="https://git-hub-stats-alpha.vercel.app/api?username=Anushre20&show_icons=true&theme=tokyonight" height="180px"/>
+  <img src="https://git-hub-stats-alpha.vercel.app/api/top-langs/?username=Anushre20&layout=compact&theme=tokyonight" height="180px"/>
+</p>
 
 🌱 Thanks for dropping by! Always up for creative collabs & learning more 🚀
